@@ -1,6 +1,5 @@
 # LikeSeal(가제) Algorithm Study Group
 
----
 
 - ***Introduction***
 
