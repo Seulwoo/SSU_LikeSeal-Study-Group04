@@ -1,6 +1,6 @@
 /*
 무지의 먹방 라이브-카카오 level4
-이세연 코드
+dana 코드
 */
 #include <string>
 #include <vector>
