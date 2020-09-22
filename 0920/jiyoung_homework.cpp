@@ -1,8 +1,8 @@
 /*
-¹éÁØ 1767¹ø : N-Rook II
-dynamic programming > top-down ¹æ½Ä
-Çà ±âÁØÀ¸·Î 0°³, 1°³, 2°³ÀÎ °æ¿ì·Î »ý°¢
-2°³ÀÎ °æ¿ì´Â Çà¿¡ 2°³, ¿­¿¡ 2°³·Î ³ª´²¼­ »ý°¢
+ë°±ì¤€ 1767ë²ˆ : N-Rook II
+dynamic programming > top-down ë°©ì‹
+í–‰ ê¸°ì¤€ìœ¼ë¡œ 0ê°œ, 1ê°œ, 2ê°œì¸ ê²½ìš°ë¡œ ìƒê°
+2ê°œì¸ ê²½ìš°ëŠ” í–‰ì— 2ê°œ, ì—´ì— 2ê°œë¡œ ë‚˜ëˆ ì„œ ìƒê°
 */
 
 #include <iostream>
