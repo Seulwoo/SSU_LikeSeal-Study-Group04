@@ -6,5 +6,5 @@ https://www.acmicpc.net/problem/
 ## (1) 지영 숙제 : 
 https://www.acmicpc.net/problem/
 
-## (1) 슬우 숙제 : 백준 1865 웜홀
+## (1) 슬우 숙제 :
 https://www.acmicpc.net/problem/
