@@ -2,6 +2,7 @@
 백준 - 3019번 : 뱀
 solved by SY
 시뮬레이션 문제
+DATE : 2020.09.24
 */
 #include <iostream>
 #include <vector>
