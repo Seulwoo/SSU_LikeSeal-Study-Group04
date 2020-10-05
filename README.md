@@ -1,4 +1,4 @@
-# LikeSeal(가제) Algorithm Study Group
+# LikeSeal Algorithm Study Group
 
 
 - ***Introduction***
