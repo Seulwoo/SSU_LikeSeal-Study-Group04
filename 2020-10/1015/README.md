@@ -9,7 +9,7 @@ https://www.acmicpc.net/problem/19236
 ## (3) 공통 숙제 : 백준 19237 어른 상어 
 https://www.acmicpc.net/problem/19237
 
-## (4) 공통 숙제 : 백준 19237 어른 상어 
-https://www.acmicpc.net/problem/19237
+## (4) 공통 숙제 : 백준 19238 스타트 택시 
+https://www.acmicpc.net/problem/19238
 
 ## (5) 스터디 : 
